@@ -1,0 +1,17 @@
+.project
+.classpath
+.settings
+target
+**/.project
+**/.classpath
+**/.settings
+**/.externalToolBuilders
+**/target
+.DS_Store
+.DS_Store?
+bin
+lib
+z-spec10.pdf
+readme.txt
+test/tdata.z3
+test/tdata.z4
